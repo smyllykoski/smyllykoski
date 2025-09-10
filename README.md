@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working as a tech writer. <br>
+🌱 I’m currently studying towards an Engineering degree in ICT at LAB University of Applied Sciences.
+
 <!--
 **smyllykoski/smyllykoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
