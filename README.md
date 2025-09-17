@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 🔭 I’m currently working as a tech writer. <br>
-🌱 I’m currently studying towards an Engineering degree in ICT at LAB University of Applied Sciences.
+🌱 I’m currently studying towards an Engineering degree in ICT at LAB University of Applied Sciences. <br>
+⚡ I haven't been coding before I started my studies, so still a beginner with this stuff.
 
 <!--
 **smyllykoski/smyllykoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
