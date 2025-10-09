@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working as a tech writer. <br>
-🌱 I’m currently studying towards an Engineering degree in ICT at LAB University of Applied Sciences. <br>
+🌱 I’m studying towards an Engineering degree in ICT at LAB University of Applied Sciences. <br>
 ⚡ I haven't been coding before I started my studies, so still a beginner with this stuff.
 
 <!--
